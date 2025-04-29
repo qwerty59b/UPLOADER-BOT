@@ -5,7 +5,7 @@ aiohttp
 hachoir
 olefile
 requests
-#tgcrypto
+TgCrypto==1.2.5
 aiofiles
 dnspython
 motor[srv]
